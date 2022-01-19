@@ -8,5 +8,6 @@ namespace Proiect_Magazin_2.Models
     public class People
     {
         int b;
+        int a;
     }
 }
