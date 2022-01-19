@@ -11,5 +11,6 @@ namespace Proiect_Magazin_2.Models
         int a;
         char mdadada;
         int c;
+        int d;
     }
 }
