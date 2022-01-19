@@ -9,5 +9,6 @@ namespace Proiect_Magazin_2.Models
     {
         int b;
         int a;
+        int c;
     }
 }
